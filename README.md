@@ -10,6 +10,13 @@ GOALS
 
 ![image](https://github.com/hereafter/power-taskbar/assets/1483954/010a2033-b247-4a9e-a7a3-fd30a17bf85b)
 
+## Mouse shortcuts
+1. Background Double Click Action
+
+![alignment](https://github.com/hereafter/power-taskbar/assets/1483954/e9fc17ae-ee72-428e-b225-dc4a3d11dcdd)
+
+
+3. Background Middle Click Action
 
 ## Customize taskbar background colors and transparency
 ## Customize control center icons
