@@ -16,7 +16,10 @@ GOALS
 ![alignment](https://github.com/hereafter/power-taskbar/assets/1483954/e9fc17ae-ee72-428e-b225-dc4a3d11dcdd)
 
 
-3. Background Middle Click Action
+2. Background Middle Click Action
+
+![autohide](https://github.com/hereafter/power-taskbar/assets/1483954/db6f185d-b10d-42b7-8c8a-7c2bed8256fe)
+
 
 ## Customize taskbar background colors and transparency
 ## Customize control center icons
