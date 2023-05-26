@@ -7,5 +7,9 @@ Use an entire new approach for shell customizations, More stable with more featu
 GOALS
 
 ## Make Context menu more productive
+
+![image](https://github.com/hereafter/power-taskbar/assets/1483954/010a2033-b247-4a9e-a7a3-fd30a17bf85b)
+
+
 ## Customize taskbar background colors and transparency
 ## Customize control center icons
